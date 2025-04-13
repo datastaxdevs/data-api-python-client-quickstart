@@ -1,6 +1,6 @@
 # data-api-python-client-quickstart
 
-Install Jupyter and open the notebooks (or: in Colab).
+These notebooks accompany the Astra DB Python [quickstarts](https://docs.datastax.com/en/astra-db-serverless/get-started/quickstart.html) and are for usage in Google Colab.
 
 ## Use 'Collections'
 
