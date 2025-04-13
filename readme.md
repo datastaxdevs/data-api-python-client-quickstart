@@ -8,4 +8,4 @@ These notebooks accompany the Astra DB Python [quickstarts](https://docs.datasta
 
 ## Use 'Tables'
 
-(coming soon)
+[Open in Colab](https://colab.research.google.com/github/datastaxdevs/data-api-python-client-quickstart/blob/main/astra_db_tables_quickstart.ipynb)
